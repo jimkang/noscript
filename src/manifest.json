@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
   "default_locale": "en",
-  "name": "NoScript",
+  "name": "NoScript (same-site default fork)",
   "browser_specific_settings": {
     "gecko": {
-      "id":  "{73a6fe31-595d-460b-a920-fcc0f8843232}",
+      "id":  "{b40d7f35-ef82-4632-bd7e-96e87b5ddc69}",
       "strict_min_version": "115.0"
     },
     "gecko_android": {}
