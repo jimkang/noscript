@@ -90,3 +90,10 @@ please encrypt your report with this **PGP key**.
 <!---------------------------------[ Buttons ]--------------------------------->
 
 [Button Website]: https://img.shields.io/badge/Ｗｅｂｓｉｔｅ-d12027?style=for-the-badge&logoColor=white&logo=ONLYOFFICE
+
+# Build
+
+- Change the id in manifest.
+- `git submodule update --init --remote --recursive`
+- ./build.sh
+- Get it signed by submitting the zip file in the xpi/ directory.
